@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a PhD candidate at Department of Computer Science and Information Engineering, National Central University, Taiwan.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
